@@ -1,0 +1,6 @@
+{
+  "name": "AKI-TEM Controle de Validade",
+  "description": "Sistema profissional de registro, monitoramento, busca e gestão de datas de validade para comércio e varejo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
