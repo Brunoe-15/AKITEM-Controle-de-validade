@@ -5,6 +5,8 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+base: '/AKITEM-Controle-de-validade/',
+
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
